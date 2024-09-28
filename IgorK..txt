@@ -1,0 +1,240 @@
+aula de programação mobile 
+
+O que é um dispositivo Mobile?
+
+Segundo Lee, Schneider e Schell (2015) são dispositivos que
+oferecem a capacidade de realizar facilmente um conjunto de
+funções de aplicação, sendo capaz de conectar-se, obtendo dados e
+fornecendo-os a outros usuários, aplicações e sistemas.
+
+O que é um dispositivo Mobile?
+
+Esses devem ter:
+
+Portabilidade;
+A portabilidade é definida como a capacidade de transportar. (Lee;
+Schneider; Schell, 2015).
+
+É relevante considerar o tamanho e o peso dos dispositivos.
+
+
+Usabilidade;
+É a capacidade de ser utilizado por diversas pessoas e
+ambientes.(Lee; Schneider; Schell, 2015).
+
+Depende das características do usuário, do ambiente e do
+dispositivo.
+
+
+Funcionalidade; diversas formas de usa-lo
+
+Conectividade.; conexão direta ou indireta com a internet
+
+
+Interface com usuario: Hardware/software botoes, icons, 
+
+interação com usuario, permite comunicação do sistema  com o usuario 
+
+Telas e telas sensíveis ao toque 
+Se preocupar com a proporção e a resolução 
+de ícones e imagens 
+
+-Taxa de frame 
+- botões possam ser tocados por dedos grandes em telas pequenas 
+-telas maiores tem mais espaço para textos maiores 
+
+
+microfones e alto-falantes 
+- usa-se a fala como sistemas de entrada e saida
+-tecnicas para minimizar ruidos ambientes
+- comando de voz ou gatilho sonoro
+- som pode criar um experiencia com o usuario de modo mais sentimental 
+
+
+Scanners (biometrico) e cameras
+
+-uso independente ou integrado
+- pode servir para entrada de docs de img ou txt (orc)
+
+
+conteudo da aplicação
+
+texto 
+imagem
+animação
+sons
+filmes
+00
+
+
+Evolução das arquiteturas 
+
+Arquitetura centrada no serviço compativel com a web 
+arquitetura web centrada no usuario
+
+Conectividade:
+
+
+Sempre conectado cliente magro 
+
+parcialmente conectado cliente gordo 
+
+Abstração:
+
+Usuario:
+
+Registrado: Serviços específicos com acessos restrito  certas paginas 
+
+Não registrado:
+Todos navegam, anonimamente
+
+
+papeis:
+Diferentes Visões e pags disponiveis na aplicação
+
+Vulnerabilidade:
+
+Atividade do usuario:
+
+Nomes do user e password fracas:
+
+permissão excessiva:
+
+engano/fishing:
+
+Serviços e portas:
+
+
+Transferencia de dados descriptados:
+
+overrun de buffer:
+
+ataques de injeção de sql:
+
+Nomes de usuario e senhas incorporados ao codigo:
+
+
+
+Ameaças:
+
+Spoofing: 
+
+Adulteração:
+
+Repúdio:
+
+Revelar informações:
+
+Elevação de prvilégio:
+
+
+Mitigação:
+
+
+Autenticação e controle de acesso 
+
+comunicação segura:
+
+auditoria:
+
+Filtragem:
+
+Menor privilégio
+
+Segurança clientes moveis:
+
+Logout automatic e reentrada de credencias:
+
+Destruição de dados:
+
+Encriptação e dados:
+
+Nomes de usuario e senha 
+
+Problemas de segurança 
+
+Encriptar os dados
+
+Revisar portas e serviços 
+
+Usar papeis e permições minimos e bem pensadas
+
+Planejamento 
+Leva-se em consideração:
+Equipe
+Tempo 
+Material 
+Dinheiro 
+
+Requisitos:
+
+Requisitos do user:
+Requisitos do negocio:
+Requisitos do sistema
+Requisitos operacionais
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
