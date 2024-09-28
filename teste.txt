@@ -1,3 +1,0 @@
-Teste de comunicação com git/GitHub
-
-segundo texte
